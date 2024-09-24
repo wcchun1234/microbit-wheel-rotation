@@ -1,13 +1,12 @@
 {
-    "name": "microbit-wheel-rotation",
-    "version": "0.0.1",
-    "description": "Extension to calculate the number of rotations based on encoder values.",
-    "dependencies": {
-        "core": "*",
-        "Kitronik_Move_Motor": "github:KitronikLtd/pxt-kitronik-move-motor#v1.0.0"
-    },
-    "files": [
-        "main.ts",
-        "README.md"
-    ]
+  "name": "microbit-wheel-rotation",
+  "version": "0.0.1",
+  "description": "Micro:bit wheel rotation project",
+  "dependencies": {
+    "core": "*",
+    "kitronik-motor": "github:KitronikLtd/pxt-kitronik-move-motor#v1.0.0"
+  },
+  "files": [
+    "main.ts"
+  ]
 }
